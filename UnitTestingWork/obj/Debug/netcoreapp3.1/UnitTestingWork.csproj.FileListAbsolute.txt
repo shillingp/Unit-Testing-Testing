@@ -1,0 +1,13 @@
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\bin\Debug\netcoreapp3.1\UnitTestingWork.exe
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\bin\Debug\netcoreapp3.1\UnitTestingWork.deps.json
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\bin\Debug\netcoreapp3.1\UnitTestingWork.runtimeconfig.json
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\bin\Debug\netcoreapp3.1\UnitTestingWork.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\bin\Debug\netcoreapp3.1\UnitTestingWork.dll
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\bin\Debug\netcoreapp3.1\UnitTestingWork.pdb
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\obj\Debug\netcoreapp3.1\UnitTestingWork.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\obj\Debug\netcoreapp3.1\UnitTestingWork.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\obj\Debug\netcoreapp3.1\UnitTestingWork.AssemblyInfo.cs
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\obj\Debug\netcoreapp3.1\UnitTestingWork.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\obj\Debug\netcoreapp3.1\UnitTestingWork.dll
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\obj\Debug\netcoreapp3.1\UnitTestingWork.pdb
+C:\Users\Peter\source\repos\UnitTestingWork\UnitTestingWork\obj\Debug\netcoreapp3.1\UnitTestingWork.genruntimeconfig.cache
